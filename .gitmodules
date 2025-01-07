@@ -1,1 +1,3 @@
-
+[submodule "ci-cd-final-project"]
+    path = ci-cd-final-project
+    url = https://github.com/jangampranay50/ci-cd-final-project
